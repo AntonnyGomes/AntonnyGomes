@@ -1,3 +1,3 @@
-### Ooi, Antonny Gomes
+### Ooi, sou Antonny Gomes
 
-- 🌱 I’m currently learning  full stack.
+Desenvolvedor Web Full Stack
